@@ -18,5 +18,5 @@ Database:
   TablePrefix: blog_
   Charset: utf8
   ParseTime: True
-  MaxIdleConn: 10
-  MaxOpenConn: 30
+  MaxIdleConns: 10
+  MaxOpenConns: 30
