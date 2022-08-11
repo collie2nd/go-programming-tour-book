@@ -1,0 +1,10 @@
+2022/08/11 09:20:18 {"callers":["C:/Users/Collie/GolandProjects/go-programming-tour-book/blog-service/main.go: 27 main.init.0"],"level":"info","message":"eddycjy: ...blog-service","time":1660180818166010700}
+2022/08/11 09:21:01 {"callers":["C:/Users/Collie/GolandProjects/go-programming-tour-book/blog-service/main.go: 27 main.init.0"],"level":"info","message":"eddycjy: ...blog-service","time":1660180861790642500}
+2022/08/11 09:23:19 {
+ 	"callers": [
+ 		"C:/Users/Collie/GolandProjects/go-programming-tour-book/blog-service/main.go: 27 main.init.0"
+ 	],
+ 	"level": "info",
+ 	"message": "eddycjy: ...blog-service",
+ 	"time": 1660180999894880700
+ }
