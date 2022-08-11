@@ -31,7 +31,6 @@ func init() {
 }
 
 func main() {
-	global.Logger.Infof("%s: ...%s", "eddycjy", "blog-service")
 	gin.SetMode(global.ServerSetting.RunMode)
 	router := routers.NewRouter()
 	s := &http.Server{
@@ -83,7 +82,6 @@ func setupLogger() error {
 }
 
 func setupDBEngine() error {
-
 	var err error
 	global.DBEngine, err = model.NewDBEngine(global.DatabaseSetting)
 
