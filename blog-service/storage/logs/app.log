@@ -8,3 +8,11 @@
  	"message": "eddycjy: ...blog-service",
  	"time": 1660180999894880700
  }
+2022/08/16 20:00:21 {
+ 	"callers": [
+ 		"C:/Users/Collie/GolandProjects/go-programming-tour-book/blog-service/main.go: 27 main.init.0"
+ 	],
+ 	"level": "error",
+ 	"message": "app.BindAndValid errs: State必须是[0 1]中的一个",
+ 	"time": 1660651221235883700
+ }
